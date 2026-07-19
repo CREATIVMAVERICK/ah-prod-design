@@ -1,0 +1,8 @@
+{
+  "name": "v2_Product Design Portfolio",
+  "description": "Premium digital product portfolio of a senior product designer specializing in AI software, Healthcare SaaS, and Enterprise systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
